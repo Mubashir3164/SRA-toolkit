@@ -9,7 +9,7 @@ wget https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/3.0.0/sratoolkit.3.0.0-ubuntu64.
 tar -zxvf sratoolkit.3.0.0-ubuntu64.tar.gz
 # Export the sratoolkit binaries to path
 export PATH=$PATH:/home/Abbas/tools/sratoolkit.3.0.0-ubuntu64/bin
-Next step is configure SRA toolkit
+# Next step is configure SRA toolkit
 Few options must be enabled to access public cloud data from SRA. to perform this task run
 vdb-config -i
 after running this command an interface appears that asks you to press a letter highlighted in red or to use either the tab key to navigate to a desired button and then press either space or enter. Open the below link to know in detail about SRA toolkit configuration. 
