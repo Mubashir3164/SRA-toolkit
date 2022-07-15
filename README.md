@@ -1,5 +1,4 @@
-# SRA-toolkit
-Using SRA to download and process sequencing data from NCBI database
+# SRA-toolkit (Using SRA to download and process sequencing data from NCBI database)
 What SRA-toolkit is for?
 It is a set of utilities to download and process sequencing data from NCBI at large scale. NCBI SRA (Sequence Read Archive) database contains sequenced data in SRA format. SRA is a primary repository for high-throughput sequencing data hosted by NIH. The SRA is also a member of the International Nucleotide Sequence Database Collaboration (INSDC), which also includes the European Bioinformatics Institute (EBI) and the DNA Database of Japan (DDBJ).SRA data is downloaded using run accessions (SRR Ids).
 Download the latest version of SRA toolkit (verion 3.0.0)
